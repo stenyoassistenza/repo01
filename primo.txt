@@ -5,3 +5,7 @@ nuova riga da REPO
 
 
 zzzzzzzzzzzzzzzzzzzzzzaggiunto nella fork<<<<<<<<<<<<<<<
+
+Sensore elettronico di umidità nero
+
+agigunto sul repo primcipale
